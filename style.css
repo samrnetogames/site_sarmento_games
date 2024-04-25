@@ -1,0 +1,23 @@
+body{
+    font-family: cursive;
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 720px;
+    background: blue;
+    font-size: 97px;
+}
+
+.texto h1{
+    background-image: url(Grafico\ Danilo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 720px;
+    border-radius: 5656px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    -webkit-text-stroke: 6px white;
+}
